@@ -1,9 +1,9 @@
 # git 
-  init 
-  add
-  commit
-  push
-  pull
-  checkout 切换分支
+ - init 
+ - add
+ - commit
+ - push
+ - pull
+-  checkout 切换分支
   
 
